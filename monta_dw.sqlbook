@@ -1,4 +1,0 @@
--- SQLBook: Code
-SELECT * FROM generate_series(0, 100, 25);
--- SQLBook: Code
-SELECT * G
